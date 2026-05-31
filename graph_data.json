@@ -1,0 +1,1244 @@
+{
+  "nodes": [
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    },
+    {
+      "id": "stuart_russell",
+      "name": "Stuart Russell"
+    },
+    {
+      "id": "yvonne_gonzalez_rogers",
+      "name": "Yvonne Gonzalez Rogers"
+    },
+    {
+      "id": "bernie_sanders",
+      "name": "Bernie Sanders"
+    },
+    {
+      "id": "sam_altman",
+      "name": "Sam Altman"
+    },
+    {
+      "id": "geoffrey_hinton",
+      "name": "Geoffrey Hinton"
+    },
+    {
+      "id": "hodan_omaar",
+      "name": "Hodan Omaar"
+    },
+    {
+      "id": "rebecca_bellan",
+      "name": "Rebecca Bellan"
+    },
+    {
+      "id": "krishna_rao",
+      "name": "Krishna Rao"
+    },
+    {
+      "id": "brad_gerstner",
+      "name": "Brad Gerstner"
+    },
+    {
+      "id": "ilya_sutskever",
+      "name": "Ilya Sutskever"
+    },
+    {
+      "id": "mira_murati",
+      "name": "Mira Murati"
+    },
+    {
+      "id": "bob_iger",
+      "name": "Bob Iger"
+    },
+    {
+      "id": "adam_raine",
+      "name": "Adam Raine"
+    },
+    {
+      "id": "zane_shamblin",
+      "name": "Zane Shamblin"
+    },
+    {
+      "id": "fidji_simo",
+      "name": "Fidji Simo"
+    },
+    {
+      "id": "herbert_gr\u00f6nemeyer",
+      "name": "Herbert Gr\u00f6nemeyer"
+    },
+    {
+      "id": "max_schwarzer",
+      "name": "Max Schwarzer"
+    },
+    {
+      "id": "joanne_jang",
+      "name": "Joanne Jang"
+    },
+    {
+      "id": "tibor_blaho",
+      "name": "Tibor Blaho"
+    },
+    {
+      "id": "brad_lightcap",
+      "name": "Brad Lightcap"
+    },
+    {
+      "id": "nick_turley",
+      "name": "Nick Turley"
+    },
+    {
+      "id": "theo_von",
+      "name": "Theo Von"
+    },
+    {
+      "id": "sarah_friar",
+      "name": "Sarah Friar"
+    },
+    {
+      "id": "jony_ive",
+      "name": "Jony Ive"
+    },
+    {
+      "id": "aidan_clark",
+      "name": "Aidan Clark"
+    },
+    {
+      "id": "mark_zuckerberg",
+      "name": "Mark Zuckerberg"
+    },
+    {
+      "id": "noam_brown",
+      "name": "Noam Brown"
+    },
+    {
+      "id": "kate_park",
+      "name": "Kate Park"
+    },
+    {
+      "id": "alyssa_stringer",
+      "name": "Alyssa Stringer"
+    },
+    {
+      "id": "mark_chen",
+      "name": "Mark Chen"
+    },
+    {
+      "id": "julia_villagra",
+      "name": "Julia Villagra"
+    },
+    {
+      "id": "joakim_s\u00f6derberg",
+      "name": "Joakim S\u00f6derberg"
+    },
+    {
+      "id": "bret_taylor",
+      "name": "Bret Taylor"
+    },
+    {
+      "id": "greg_brockman",
+      "name": "Greg Brockman"
+    },
+    {
+      "id": "andrej_karpathy",
+      "name": "Andrej Karpathy"
+    },
+    {
+      "id": "scott_gray",
+      "name": "Scott Gray"
+    },
+    {
+      "id": "dorothy_lund",
+      "name": "Dorothy Lund"
+    },
+    {
+      "id": "nick_joseph",
+      "name": "Nick Joseph"
+    },
+    {
+      "id": "chris_rohlf",
+      "name": "Chris Rohlf"
+    },
+    {
+      "id": "lorenzo_franceschi-bicchierai",
+      "name": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
+      "id": "ivan_mehta",
+      "name": "Ivan Mehta"
+    },
+    {
+      "id": "rick_gerson",
+      "name": "Rick Gerson"
+    },
+    {
+      "id": "eric_vishria",
+      "name": "Eric Vishria"
+    },
+    {
+      "id": "lior_susan",
+      "name": "Lior Susan"
+    },
+    {
+      "id": "steve_vassallo",
+      "name": "Steve Vassallo"
+    },
+    {
+      "id": "adam_d'angelo",
+      "name": "Adam D'Angelo"
+    },
+    {
+      "id": "andy_bechtolsheim",
+      "name": "Andy Bechtolsheim"
+    },
+    {
+      "id": "lip-bu_tan",
+      "name": "Lip-Bu Tan"
+    },
+    {
+      "id": "tim_cook",
+      "name": "Tim Cook"
+    },
+    {
+      "id": "eric_schmidt",
+      "name": "Eric Schmidt"
+    },
+    {
+      "id": "steve_jobs",
+      "name": "Steve Jobs"
+    },
+    {
+      "id": "jeff_bezos",
+      "name": "Jeff Bezos"
+    },
+    {
+      "id": "mark_walter",
+      "name": "Mark Walter"
+    },
+    {
+      "id": "donald_trump",
+      "name": "Donald Trump"
+    },
+    {
+      "id": "peter_faricy",
+      "name": "Peter Faricy"
+    },
+    {
+      "id": "sean_o'kane",
+      "name": "Sean O'Kane"
+    },
+    {
+      "id": "ara_kharazian",
+      "name": "Ara Kharazian"
+    },
+    {
+      "id": "jared_isaacman",
+      "name": "Jared Isaacman"
+    },
+    {
+      "id": "mike_haridopolos",
+      "name": "Mike Haridopolos"
+    },
+    {
+      "id": "gabriel_weinberg",
+      "name": "Gabriel Weinberg"
+    },
+    {
+      "id": "kamyl_bazbaz",
+      "name": "Kamyl Bazbaz"
+    },
+    {
+      "id": "elizabeth_reid",
+      "name": "Elizabeth Reid"
+    },
+    {
+      "id": "google",
+      "name": "Google"
+    },
+    {
+      "id": "duckduckgo",
+      "name": "DuckDuckGo"
+    },
+    {
+      "id": "techcrunch",
+      "name": "TechCrunch"
+    },
+    {
+      "id": "michele_spagnuolo",
+      "name": "Michele Spagnuolo"
+    },
+    {
+      "id": "jay_clayton",
+      "name": "Jay Clayton"
+    },
+    {
+      "id": "nicol\u00e1s_maduro",
+      "name": "Nicol\u00e1s Maduro"
+    },
+    {
+      "id": "amanda_silberling",
+      "name": "Amanda Silberling"
+    },
+    {
+      "id": "isabel_j._kim",
+      "name": "Isabel J. Kim"
+    },
+    {
+      "id": "rosie_campbell",
+      "name": "Rosie Campbell"
+    },
+    {
+      "id": "dylan_scandinaro",
+      "name": "Dylan Scandinaro"
+    },
+    {
+      "id": "tasha_mccauley",
+      "name": "Tasha McCauley"
+    },
+    {
+      "id": "helen_toner",
+      "name": "Helen Toner"
+    },
+    {
+      "id": "david_schizer",
+      "name": "David Schizer"
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI"
+    },
+    {
+      "id": "xai",
+      "name": "xAI"
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic"
+    },
+    {
+      "id": "shivon_zilis",
+      "name": "Shivon Zilis"
+    },
+    {
+      "id": "steve_molo",
+      "name": "Steve Molo"
+    },
+    {
+      "id": "naomi_gleit",
+      "name": "Naomi Gleit"
+    }
+  ],
+  "edges": [
+    {
+      "source": "elon_musk",
+      "target": "stuart_russell",
+      "type": "called as witness",
+      "explanation": "Elon Musk's attorneys called Stuart Russell to testify as an expert witness in the OpenAI trial.",
+      "provenance": "Today, they called the only expert witness to speak directly to AI technology: Stuart Russell"
+    },
+    {
+      "source": "stuart_russell",
+      "target": "elon_musk",
+      "type": "co-signed letter with",
+      "explanation": "Stuart Russell co-signed an open letter with Elon Musk calling for a six-month pause in AI research.",
+      "provenance": "Russell signed anopen letterin March 2023 calling for a six-month pause in AI research. In a sign of the contradictions here, Musk also signed the same letter"
+    },
+    {
+      "source": "stuart_russell",
+      "target": "yvonne_gonzalez_rogers",
+      "type": "testified to",
+      "explanation": "Stuart Russell testified to Judge Yvonne Gonzalez Rogers about the risks associated with AI development.",
+      "provenance": "Russell told jurors and Judge Yvonne Gonzalez Rogers that there were a variety of risks associated with the development of AI"
+    },
+    {
+      "source": "yvonne_gonzalez_rogers",
+      "target": "stuart_russell",
+      "type": "limited testimony of",
+      "explanation": "Judge Yvonne Gonzalez Rogers limited Stuart Russell's testimony after objections from OpenAI's attorneys.",
+      "provenance": "objections from OpenAI\u2019s attorneys led the judge to limit Russell\u2019s testimony."
+    },
+    {
+      "source": "bernie_sanders",
+      "target": "elon_musk",
+      "type": "echoes fears of",
+      "explanation": "Senator Bernie Sanders' push for a moratorium on data center construction echoes AI fears previously enunciated by Elon Musk.",
+      "provenance": "Senator Bernie Sanders\u2019 push for a lawimposing a moratoriumon data center construction echoes AI fears enunciated by Elon Musk, Sam Altman, Geoffrey Hinton, and others."
+    },
+    {
+      "source": "bernie_sanders",
+      "target": "sam_altman",
+      "type": "echoes fears of",
+      "explanation": "Senator Bernie Sanders' push for a moratorium on data center construction echoes AI fears previously enunciated by Sam Altman.",
+      "provenance": "Senator Bernie Sanders\u2019 push for a lawimposing a moratoriumon data center construction echoes AI fears enunciated by Elon Musk, Sam Altman, Geoffrey Hinton, and others."
+    },
+    {
+      "source": "bernie_sanders",
+      "target": "geoffrey_hinton",
+      "type": "echoes fears of",
+      "explanation": "Senator Bernie Sanders' push for a moratorium on data center construction echoes AI fears previously enunciated by Geoffrey Hinton.",
+      "provenance": "Senator Bernie Sanders\u2019 push for a lawimposing a moratoriumon data center construction echoes AI fears enunciated by Elon Musk, Sam Altman, Geoffrey Hinton, and others."
+    },
+    {
+      "source": "hodan_omaar",
+      "target": "bernie_sanders",
+      "type": "objected to actions of",
+      "explanation": "Hodan Omaar objected to Senator Bernie Sanders citing AI fears from others without also acknowledging their hopes.",
+      "provenance": "Hodan Omaar, who works at the trade organization the Center for Data Innovation, objected to Sanders citing their fears without their hopes"
+    },
+    {
+      "source": "sam_altman",
+      "target": "theo_von",
+      "type": "appeared on show of",
+      "explanation": "Sam Altman appeared as a guest on Theo Von's podcast 'This Past Weekend w/ Theo Von'.",
+      "provenance": "OpenAI CEO Sam Altman said on a recent episodeof This Past Weekend w/ Theo Von."
+    },
+    {
+      "source": "brad_lightcap",
+      "target": "sam_altman",
+      "type": "previously worked with",
+      "explanation": "Brad Lightcap previously worked with Sam Altman at Y Combinator.",
+      "provenance": "Lightcap, who previously worked with Altman at Y Combinator, joined the Microsoft-backed startup in 2018."
+    },
+    {
+      "source": "elon_musk",
+      "target": "mark_zuckerberg",
+      "type": "competes with",
+      "explanation": "Elon Musk's X platform competes with Mark Zuckerberg's Instagram and Threads platforms.",
+      "provenance": "OpenAI intends to launch its own social media platform to compete with Elon Musk\u2019s X and Mark Zuckerberg\u2019s Instagram and Threads"
+    },
+    {
+      "source": "elon_musk",
+      "target": "sam_altman",
+      "type": "Sues",
+      "explanation": "Elon Musk filed a lawsuit challenging OpenAI's corporate structure, which Sam Altman defended.",
+      "provenance": "OpenAI CEO Sam Altman finally took the stand this morning to defend himself against his former co-founder Elon Musk\u2019s lawsuit challenging OpenAI\u2019s corporate structure."
+    },
+    {
+      "source": "sam_altman",
+      "target": "elon_musk",
+      "type": "Defends against allegations",
+      "explanation": "Sam Altman defended against Elon Musk's allegation that OpenAI's founders 'stole a charity'.",
+      "provenance": "Altman was immediately asked what he thought of Musk\u2019s allegation that OpenAI\u2019s other founders \u201cstole a charity\u201d when they launched a for-profit subsidiary to market products based on the company\u2019s AI models."
+    },
+    {
+      "source": "sam_altman",
+      "target": "elon_musk",
+      "type": "Worried by plans",
+      "explanation": "Sam Altman was worried by Elon Musk\u2019s specific plans on safety during a pivotal period in 2017.",
+      "provenance": "But Altman said that in 2017, duringa pivotal periodwhen the founders wrestled with how to obtain the funding to power their AI models, Musk\u2019s \u201cspecific plans on safety made me worry.\u201d"
+    },
+    {
+      "source": "sam_altman",
+      "target": "elon_musk",
+      "type": "Recounts statement",
+      "explanation": "Sam Altman recounted that Elon Musk suggested passing OpenAI to his children if he died while controlling a for-profit.",
+      "provenance": "In Altman\u2019s telling, Musk said, \u201cMaybe OpenAI should pass to my children.\u201d"
+    },
+    {
+      "source": "sam_altman",
+      "target": "elon_musk",
+      "type": "Criticizes focus on control",
+      "explanation": "Sam Altman criticized Elon Musk's focus on controlling the initial for-profit, which went against OpenAI's dedication.",
+      "provenance": "Altman said that Musk\u2019s focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person..."
+    },
+    {
+      "source": "sam_altman",
+      "target": "elon_musk",
+      "type": "Criticizes management tactics",
+      "explanation": "Sam Altman testified that Elon Musk's management tactics didn't work at OpenAI and demotivated researchers.",
+      "provenance": "Altman also testified that Musk\u2019s management tactics, which might have worked for engineering and manufacturing, didn\u2019t work at OpenAI."
+    },
+    {
+      "source": "elon_musk",
+      "target": "greg_brockman",
+      "type": "Required action",
+      "explanation": "Elon Musk required Greg Brockman to make a list of researchers and stack rank them.",
+      "provenance": "He had at one point required Greg and Ilya to make a list of the researchers and list out their accomplishments and stack rank them and take a chainsaw through a bunch."
+    },
+    {
+      "source": "elon_musk",
+      "target": "ilya_sutskever",
+      "type": "Required action",
+      "explanation": "Elon Musk required Ilya Sutskever to make a list of researchers and stack rank them.",
+      "provenance": "He had at one point required Greg and Ilya to make a list of the researchers and list out their accomplishments and stack rank them and take a chainsaw through a bunch."
+    },
+    {
+      "source": "elon_musk",
+      "target": "sam_altman",
+      "type": "Clashed with",
+      "explanation": "Elon Musk had an unresolved clash with co-founders including Sam Altman, leading him to leave OpenAI's board.",
+      "provenance": "After that clash went unresolved, Musk ultimately left OpenAI\u2019s board and started competing AI initiatives at Tesla and his own AI startup, xAI."
+    },
+    {
+      "source": "sam_altman",
+      "target": "elon_musk",
+      "type": "Communicated with",
+      "explanation": "Sam Altman kept in touch with Elon Musk, updating him on OpenAI's work and seeking his funding and advice.",
+      "provenance": "But Altman kept in touch with the mercurial businessman, updating him on OpenAI\u2019s work and seeking his funding and advice."
+    },
+    {
+      "source": "sam_altman",
+      "target": "elon_musk",
+      "type": "Informed of investments",
+      "explanation": "OpenAI (represented by Altman) kept Elon Musk up to date and asked him to participate in investments.",
+      "provenance": "OpenAI\u2019s lawyers noted that Musk had been kept up to date and asked to participate in the investments that his lawsuits now claim corrupted the non-profit."
+    },
+    {
+      "source": "sam_altman",
+      "target": "elon_musk",
+      "type": "Had good meeting with",
+      "explanation": "Sam Altman described a 2018 meeting with Elon Musk about a Microsoft investment as having 'good vibes'.",
+      "provenance": "During one discussion of a Microsoft investment into OpenAI in 2018, Altman said that \u201cunlike a lot of meetings with Mr. Musk, this was a good vibes meeting,\u201d where Musk spent a \u201clong conversation showing us memes on his phone.\u201d"
+    },
+    {
+      "source": "bret_taylor",
+      "target": "elon_musk",
+      "type": "Testified against allegations",
+      "explanation": "Bret Taylor testified countering allegations raised by Elon Musk's lawyers regarding OpenAI's foundation.",
+      "provenance": "OpenAI board chair Bret Taylor testified today that was simply because of the challenge of converting OpenAI equity to cash, which was accomplished with the organization\u2019s most recent restructuring in 2025."
+    },
+    {
+      "source": "sam_altman",
+      "target": "greg_brockman",
+      "type": "Defends",
+      "explanation": "Sam Altman defended the 'sweat equity' of co-founder Greg Brockman.",
+      "provenance": "Indeed, Altman cast himself as defending the \u201csweat equity\u201d of fellow co-founders Greg Brockman and Ilya Sutskever..."
+    },
+    {
+      "source": "sam_altman",
+      "target": "ilya_sutskever",
+      "type": "Defends",
+      "explanation": "Sam Altman defended the 'sweat equity' of co-founder Ilya Sutskever.",
+      "provenance": "Indeed, Altman cast himself as defending the \u201csweat equity\u201d of fellow co-founders Greg Brockman and Ilya Sutskever..."
+    },
+    {
+      "source": "greg_brockman",
+      "target": "ilya_sutskever",
+      "type": "Co-founder with",
+      "explanation": "Greg Brockman and Ilya Sutskever are co-founders of OpenAI.",
+      "provenance": "Indeed, Altman cast himself as defending the \u201csweat equity\u201d of fellow co-founders Greg Brockman and Ilya Sutskever..."
+    },
+    {
+      "source": "ilya_sutskever",
+      "target": "greg_brockman",
+      "type": "Co-founder with",
+      "explanation": "Ilya Sutskever and Greg Brockman are co-founders of OpenAI.",
+      "provenance": "Indeed, Altman cast himself as defending the \u201csweat equity\u201d of fellow co-founders Greg Brockman and Ilya Sutskever..."
+    },
+    {
+      "source": "greg_brockman",
+      "target": "ilya_sutskever",
+      "type": "Worked with",
+      "explanation": "Greg Brockman and Ilya Sutskever were effectively running OpenAI together.",
+      "provenance": "Indeed, Altman cast himself as defending the \u201csweat equity\u201d of fellow co-founders Greg Brockman and Ilya Sutskever, the two people effectively running OpenAI at the time while Musk and Altman had other jobs."
+    },
+    {
+      "source": "ilya_sutskever",
+      "target": "greg_brockman",
+      "type": "Worked with",
+      "explanation": "Ilya Sutskever and Greg Brockman were effectively running OpenAI together.",
+      "provenance": "Indeed, Altman cast himself as defending the \u201csweat equity\u201d of fellow co-founders Greg Brockman and Ilya Sutskever, the two people effectively running OpenAI at the time while Musk and Altman had other jobs."
+    },
+    {
+      "source": "elon_musk",
+      "target": "sam_altman",
+      "type": "sued",
+      "explanation": "Elon Musk sued Sam Altman over alleged breach of charitable trust and unjust enrichment related to OpenAI.",
+      "provenance": "The jury\u2019s speedydecision to rejectElon Musk\u2019s lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk\u2019s case was a weak one, in part because he waited so long to file it."
+    },
+    {
+      "source": "elon_musk",
+      "target": "greg_brockman",
+      "type": "sued",
+      "explanation": "Elon Musk sued Greg Brockman over alleged breach of charitable trust and unjust enrichment related to OpenAI.",
+      "provenance": "The jury\u2019s speedydecision to rejectElon Musk\u2019s lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk\u2019s case was a weak one, in part because he waited so long to file it."
+    },
+    {
+      "source": "elon_musk",
+      "target": "sam_altman",
+      "type": "accused of theft",
+      "explanation": "Musk accused Altman of enriching himself by 'stealing a charity' through OpenAI's for-profit activities.",
+      "provenance": "There is no question to anyone following the case in detail that Altman & Brockman did in fact enrich themselves by stealing a charity."
+    },
+    {
+      "source": "elon_musk",
+      "target": "greg_brockman",
+      "type": "accused of theft",
+      "explanation": "Musk accused Brockman of enriching himself by 'stealing a charity' through OpenAI's for-profit activities.",
+      "provenance": "There is no question to anyone following the case in detail that Altman & Brockman did in fact enrich themselves by stealing a charity."
+    },
+    {
+      "source": "elon_musk",
+      "target": "sam_altman",
+      "type": "accused of breach of trust",
+      "explanation": "Musk accused Altman of committing a 'breach of charitable trust' by using donated funds for purposes inconsistent with OpenAI's original mission.",
+      "provenance": "The heart ofMusk\u2019s caseis that Altman, Brockman, and OpenAI committed a 'breach of charitable trust' \u2014 that Musk donated funds for a specific charitable purpose, and his co-founders instead used them for something else."
+    },
+    {
+      "source": "elon_musk",
+      "target": "greg_brockman",
+      "type": "accused of breach of trust",
+      "explanation": "Musk accused Brockman of committing a 'breach of charitable trust' by using donated funds for purposes inconsistent with OpenAI's original mission.",
+      "provenance": "The heart ofMusk\u2019s caseis that Altman, Brockman, and OpenAI committed a 'breach of charitable trust' \u2014 that Musk donated funds for a specific charitable purpose, and his co-founders instead used them for something else."
+    },
+    {
+      "source": "elon_musk",
+      "target": "sam_altman",
+      "type": "accused of unjust enrichment",
+      "explanation": "Musk accused Altman of 'unjust enrichment' due to stock and other benefits from OpenAI\u2019s for-profit entity.",
+      "provenance": "He also accused them of 'unjust enrichment' due to stock and other benefits from OpenAI\u2019s for-profit."
+    },
+    {
+      "source": "elon_musk",
+      "target": "greg_brockman",
+      "type": "accused of unjust enrichment",
+      "explanation": "Musk accused Brockman of 'unjust enrichment' due to stock and other benefits from OpenAI\u2019s for-profit entity.",
+      "provenance": "He also accused them of 'unjust enrichment' due to stock and other benefits from OpenAI\u2019s for-profit."
+    },
+    {
+      "source": "elon_musk",
+      "target": "greg_brockman",
+      "type": "requested assistance from",
+      "explanation": "Musk asked Brockman to bring a team of OpenAI researchers to Tesla's headquarters to help with the autopilot team.",
+      "provenance": "Greg Brockman testified that in 2017, Musk asked him to bring a team of OpenAI researchers down to Tesla\u2019s headquarters to help with the autopilot team for a few weeks."
+    },
+    {
+      "source": "greg_brockman",
+      "target": "elon_musk",
+      "type": "testified against",
+      "explanation": "Brockman testified in court about Musk's request for OpenAI researchers to assist Tesla, implying Musk benefited from OpenAI's resources.",
+      "provenance": "Greg Brockman testified that in 2017, Musk asked him to bring a team of OpenAI researchers down to Tesla\u2019s headquarters to help with the autopilot team for a few weeks."
+    },
+    {
+      "source": "elon_musk",
+      "target": "greg_brockman",
+      "type": "requested to fire employees",
+      "explanation": "Musk asked Brockman to recommend Tesla employees to fire.",
+      "provenance": "Musk even asked Brockman to recommend employees to fire, which he declined to do."
+    },
+    {
+      "source": "greg_brockman",
+      "target": "andrej_karpathy",
+      "type": "led to consult",
+      "explanation": "Brockman took Andrej Karpathy to Tesla to consult with their autopilot team.",
+      "provenance": "Brockman described taking a team of leading scientists, including Andrej Karpathy, Ilya Sutskever, and Scott Gray, to consult with the 'demoralized' Tesla workers."
+    },
+    {
+      "source": "greg_brockman",
+      "target": "ilya_sutskever",
+      "type": "led to consult",
+      "explanation": "Brockman took Ilya Sutskever to Tesla to consult with their autopilot team.",
+      "provenance": "Brockman described taking a team of leading scientists, including Andrej Karpathy, Ilya Sutskever, and Scott Gray, to consult with the 'demoralized' Tesla workers."
+    },
+    {
+      "source": "greg_brockman",
+      "target": "scott_gray",
+      "type": "led to consult",
+      "explanation": "Brockman took Scott Gray to Tesla to consult with their autopilot team.",
+      "provenance": "Brockman described taking a team of leading scientists, including Andrej Karpathy, Ilya Sutskever, and Scott Gray, to consult with the 'demoralized' Tesla workers."
+    },
+    {
+      "source": "elon_musk",
+      "target": "andrej_karpathy",
+      "type": "recruited",
+      "explanation": "Musk recruited Karpathy from OpenAI to Tesla, which OpenAI's attorneys portrayed as a violation of Musk's duty to the lab.",
+      "provenance": "OpenAI\u2019s attorneys portrayed the departure as Musk violating his duty to the lab, where he was co-chair of the board, by recruiting one of its key researchers to his own company."
+    },
+    {
+      "source": "dorothy_lund",
+      "target": "elon_musk",
+      "type": "criticized actions of",
+      "explanation": "Dorothy Lund, a Columbia Law School professor, criticized Musk's lawsuit and his apparent redirection of OpenAI assets as inconsistent with the mission.",
+      "provenance": "Dorothy Lund, a Columbia Law School professor and the co-host of theBeyond Unprecedented podcast, told TechCrunch that this arrangement wouldn\u2019t be legal, calling it 'a bit rich for Musk to be suing for breach of a charitable trust, when he appears to have been redirecting assets in a way that was inconsistent with that mission.'"
+    },
+    {
+      "source": "elon_musk",
+      "target": "yvonne_gonzalez_rogers",
+      "type": "criticized",
+      "explanation": "After losing the lawsuit, Musk publicly criticized Judge Yvonne Gonzalez Rogers, calling her a 'terrible activist Oakland judge'.",
+      "provenance": "In a post he later deleted, Musk called Judge Yvonne Gonzalez Rogers a 'terrible activist Oakland judge,' then announced his plans to appeal..."
+    },
+    {
+      "source": "andrej_karpathy",
+      "target": "nick_joseph",
+      "type": "reports to",
+      "explanation": "Andrej Karpathy is working under team lead Nick Joseph at Anthropic.",
+      "provenance": "Karpathy started this week at Anthropic, where he is working on pre-training under team lead Nick Joseph."
+    },
+    {
+      "source": "sam_altman",
+      "target": "greg_brockman",
+      "type": "co-founder",
+      "explanation": "Sam Altman and Greg Brockman are co-founders of OpenAI.",
+      "provenance": "These include OpenAI founder and CEO Sam Altman, OpenAI founder and president Greg Brockman"
+    },
+    {
+      "source": "sam_altman",
+      "target": "ilya_sutskever",
+      "type": "colleague",
+      "explanation": "Sam Altman (CEO) and Ilya Sutskever (former chief scientist) worked together at OpenAI.",
+      "provenance": "OpenAI founder and CEO Sam Altman, former OpenAI chief scientist (now founder of his own AI startup) Ilya Sutskever"
+    },
+    {
+      "source": "greg_brockman",
+      "target": "ilya_sutskever",
+      "type": "colleague",
+      "explanation": "Greg Brockman (President) and Ilya Sutskever (former chief scientist) worked together at OpenAI.",
+      "provenance": "OpenAI founder and president Greg Brockman, former OpenAI chief scientist (now founder of his own AI startup) Ilya Sutskever"
+    },
+    {
+      "source": "sam_altman",
+      "target": "adam_d'angelo",
+      "type": "board member of company led by",
+      "explanation": "Adam D'Angelo is a board member of OpenAI, which Sam Altman co-founded and leads.",
+      "provenance": "OpenAI founder and CEO Sam Altman, OpenAI board member and Quora CEO Adam D\u2019Angelo"
+    },
+    {
+      "source": "greg_brockman",
+      "target": "adam_d'angelo",
+      "type": "board member of company led by",
+      "explanation": "Adam D'Angelo is a board member of OpenAI, which Greg Brockman co-founded and is president of.",
+      "provenance": "OpenAI founder and president Greg Brockman, OpenAI board member and Quora CEO Adam D\u2019Angelo"
+    },
+    {
+      "source": "ilya_sutskever",
+      "target": "adam_d'angelo",
+      "type": "company affiliation",
+      "explanation": "Ilya Sutskever worked at OpenAI as chief scientist while Adam D'Angelo was a board member.",
+      "provenance": "former OpenAI chief scientist (now founder of his own AI startup) Ilya Sutskever, OpenAI board member and Quora CEO Adam D\u2019Angelo"
+    },
+    {
+      "source": "elon_musk",
+      "target": "sam_altman",
+      "type": "litigates against",
+      "explanation": "Elon Musk filed a lawsuit against OpenAI, where Sam Altman is CEO.",
+      "provenance": "This relationship was even presentedas evidence by Elon Musk in his lawsuit with OpenAI."
+    },
+    {
+      "source": "elon_musk",
+      "target": "sam_altman",
+      "type": "accuses",
+      "explanation": "Elon Musk's attorneys claim he was unaware of Sam Altman's personal investments in Cerebras.",
+      "provenance": "legal filings by Musk\u2019s attorneys that claim he was unaware of all of the OpenAI execs\u2019 personal investments in the company."
+    },
+    {
+      "source": "elon_musk",
+      "target": "greg_brockman",
+      "type": "litigates against",
+      "explanation": "Elon Musk filed a lawsuit against OpenAI, where Greg Brockman is president.",
+      "provenance": "This relationship was even presentedas evidence by Elon Musk in his lawsuit with OpenAI."
+    },
+    {
+      "source": "elon_musk",
+      "target": "greg_brockman",
+      "type": "accuses",
+      "explanation": "Elon Musk's attorneys claim he was unaware of Greg Brockman's personal investments in Cerebras.",
+      "provenance": "legal filings by Musk\u2019s attorneys that claim he was unaware of all of the OpenAI execs\u2019 personal investments in the company."
+    },
+    {
+      "source": "elon_musk",
+      "target": "ilya_sutskever",
+      "type": "litigates against",
+      "explanation": "Elon Musk filed a lawsuit against OpenAI, where Ilya Sutskever was chief scientist.",
+      "provenance": "This relationship was even presentedas evidence by Elon Musk in his lawsuit with OpenAI."
+    },
+    {
+      "source": "elon_musk",
+      "target": "ilya_sutskever",
+      "type": "accuses",
+      "explanation": "Elon Musk's attorneys claim he was unaware of Ilya Sutskever's personal investments in Cerebras.",
+      "provenance": "legal filings by Musk\u2019s attorneys that claim he was unaware of all of the OpenAI execs\u2019 personal investments in the company."
+    },
+    {
+      "source": "greg_brockman",
+      "target": "fidji_simo",
+      "type": "temporarily replaces",
+      "explanation": "Greg Brockman is overseeing OpenAI\u2019s products on an interim basis while Fidji Simo is out on medical leave.",
+      "provenance": "Brockman overseeing OpenAI\u2019s products on an interim basis while the company\u2019s CEO of AGI deployment Fidji Simo is out on medical leave."
+    },
+    {
+      "source": "fidji_simo",
+      "target": "greg_brockman",
+      "type": "collaborated with",
+      "explanation": "Despite being on medical leave, Fidji Simo worked with Greg Brockman on recent product strategy changes.",
+      "provenance": "OpenAI told TechCrunch that although Simo remains on medical leave, she worked with Brockman on these changes."
+    },
+    {
+      "source": "sam_altman",
+      "target": "greg_brockman",
+      "type": "influenced strategy of",
+      "explanation": "Sam Altman's declaration of a 'code red' to refocus OpenAI's core ChatGPT experience likely influenced the product strategy Greg Brockman is now leading.",
+      "provenance": "At the end of last year, CEO Sam Altmandeclared a \u201ccode red\u201dand said the company needs to refocus on the core ChatGPT experience."
+    },
+    {
+      "source": "jeff_bezos",
+      "target": "mark_walter",
+      "type": "partners with",
+      "explanation": "Jeff Bezos partnered with Mark Walter to back the electric vehicle startup Slate Auto.",
+      "provenance": "Slate Auto, the electric vehicle startup backed by Jeff Bezos and LA Dodgers owner Mark Walter, will announce pricing and start taking non-refundable preorders for its low-cost electric vehicle on June 24, ahead of the first deliveries late this year."
+    },
+    {
+      "source": "mark_walter",
+      "target": "jeff_bezos",
+      "type": "partners with",
+      "explanation": "Mark Walter partnered with Jeff Bezos to back the electric vehicle startup Slate Auto.",
+      "provenance": "Slate Auto, the electric vehicle startup backed by Jeff Bezos and LA Dodgers owner Mark Walter, will announce pricing and start taking non-refundable preorders for its low-cost electric vehicle on June 24, ahead of the first deliveries late this year."
+    },
+    {
+      "source": "sean_o'kane",
+      "target": "elon_musk",
+      "type": "covers",
+      "explanation": "Sean O'Kane, a reporter, covers the transportation industry which includes Elon Musk and companies chasing him.",
+      "provenance": "Sean O\u2019Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk."
+    },
+    {
+      "source": "elon_musk",
+      "target": "sam_altman",
+      "type": "had legal conflict with",
+      "explanation": "Elon Musk lost a lawsuit against OpenAI, the company led by Sam Altman, leading to an anticipated 'battle' between them.",
+      "provenance": "A day after Elon Musklost his lawsuitthat threatened OpenAI\u2019s structure, leadership, and finances, the AI giant is ready to move forward with its initial public offering, sources toldthe Wall Street Journal. Now that Musk failed to skewer OpenAI, the competitor he co-founded, through the heart with a lawsuit, it looks like the next Musk vs. Altman battle will take place in the world of finance."
+    },
+    {
+      "source": "elon_musk",
+      "target": "sam_altman",
+      "type": "competes with",
+      "explanation": "Elon Musk and Sam Altman are expected to compete in the financial world with their respective companies' IPOs.",
+      "provenance": "it looks like the next Musk vs. Altman battle will take place in the world of finance. Which one will be the bigger IPO?"
+    },
+    {
+      "source": "mike_haridopolos",
+      "target": "jared_isaacman",
+      "type": "spoke with",
+      "explanation": "Congressman Haridopolos spoke with NASA Administrator Isaacman about the Blue Origin explosion.",
+      "provenance": "Late Thursday, Congressman Mike Haridopolos (R-FL), who represents the district that is home to Cape Canaveral, wrote on X that he had spoken with NASA administrator Jared Isaacman about the explosion."
+    },
+    {
+      "source": "gabriel_weinberg",
+      "target": "google",
+      "type": "criticizes",
+      "explanation": "Gabriel Weinberg criticizes Google for 'force-feeding AI' and making search results worse.",
+      "provenance": "\u201cGoogle is force-feeding AI with no way to opt out,\u201d Weinberg said Tuesday in a statement, referring to Google\u2019s Search overhaul. \u201cAs a result,their results are getting worse, not better."
+    },
+    {
+      "source": "gabriel_weinberg",
+      "target": "duckduckgo",
+      "type": "leads",
+      "explanation": "Gabriel Weinberg is the CEO of DuckDuckGo.",
+      "provenance": "During Google\u2019ssearch antitrusttrial in 2023, DuckDuckGo CEO Gabriel Weinbergtestifiedthat Google\u2019s exclusive default search contracts harmed its ability to pitch itself as the default on other browsers."
+    },
+    {
+      "source": "kamyl_bazbaz",
+      "target": "duckduckgo",
+      "type": "works for",
+      "explanation": "Kamyl Bazbaz is DuckDuckGo\u2019s chief communications and policy officer.",
+      "provenance": "Kamyl Bazbaz, DuckDuckGo\u2019s chief communications and policy officer, said both of those AI features are among the company\u2019s most popular, despite their differing ethos."
+    },
+    {
+      "source": "elizabeth_reid",
+      "target": "google",
+      "type": "works for",
+      "explanation": "Elizabeth Reid is the VP of search at Google.",
+      "provenance": "A Google spokesperson pointed TechCrunch to ablog postpublished recently by VP of search Elizabeth Reid, in which she states that a year after its debut, AI Mode has surpassed one billion monthly users with queries more than doubling every quarter since launch."
+    },
+    {
+      "source": "rebecca_bellan",
+      "target": "techcrunch",
+      "type": "reports for",
+      "explanation": "Rebecca Bellan is a senior reporter at TechCrunch.",
+      "provenance": "Rebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence."
+    },
+    {
+      "source": "jay_clayton",
+      "target": "michele_spagnuolo",
+      "type": "charges",
+      "explanation": "Jay Clayton, the United States Attorney for the Southern District of New York, announced charges against Michele Spagnuolo for insider trading.",
+      "provenance": "\u201cAs alleged, Spagnuolo violated the duties he owed to his employer and used Google\u2019s confidential business information to make more than $1.2 million in trading profits on Polymarket,\u201d Jay Clayton, the United States Attorney for the Southern District of New York, said in a press release."
+    },
+    {
+      "source": "amanda_silberling",
+      "target": "isabel_j._kim",
+      "type": "co-hosts with",
+      "explanation": "Amanda Silberling co-hosts a podcast called 'Wow If True' with science fiction author Isabel J. Kim.",
+      "provenance": "She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim."
+    },
+    {
+      "source": "elon_musk",
+      "target": "openai",
+      "type": "sues",
+      "explanation": "Elon Musk has filed a legal effort to dismantle OpenAI.",
+      "provenance": "Elon Musk\u2019s legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab\u2019s founding mission of ensuring that humanity benefits from artificial general intelligence."
+    },
+    {
+      "source": "rosie_campbell",
+      "target": "openai",
+      "type": "was employed by",
+      "explanation": "Rosie Campbell was an employee and board member at OpenAI, working on the AGI readiness team.",
+      "provenance": "Rosie Campbell joined the company\u2019s AGI readiness team in 2021, and sheleft OpenAIin 2024 after her team was disbanded."
+    },
+    {
+      "source": "rosie_campbell",
+      "target": "xai",
+      "type": "compares safety approach to",
+      "explanation": "Rosie Campbell believes OpenAI's safety approach is superior to xAI's.",
+      "provenance": "OpenAI\u2019s attorneys also had Campbell admit that in her \u201cspeculative opinion,\u201d OpenAI\u2019s safety approach is superior to that at xAI, the AI company that Musk founded that was acquired by SpaceX earlier this year."
+    },
+    {
+      "source": "elon_musk",
+      "target": "xai",
+      "type": "founded",
+      "explanation": "Elon Musk founded the AI company xAI.",
+      "provenance": "OpenAI\u2019s attorneys also had Campbell admit that in her \u201cspeculative opinion,\u201d OpenAI\u2019s safety approach is superior to that at xAI, the AI company that Musk founded that was acquired by SpaceX earlier this year."
+    },
+    {
+      "source": "dylan_scandinaro",
+      "target": "openai",
+      "type": "is employed by",
+      "explanation": "Dylan Scandinaro is the current head of preparedness at OpenAI.",
+      "provenance": "Dylan Scandinaro, its current head of preparedness, was hired from Anthropic in February."
+    },
+    {
+      "source": "dylan_scandinaro",
+      "target": "anthropic",
+      "type": "previously employed by",
+      "explanation": "Dylan Scandinaro was previously employed by Anthropic before joining OpenAI.",
+      "provenance": "Dylan Scandinaro, its current head of preparedness, was hired from Anthropic in February."
+    },
+    {
+      "source": "sam_altman",
+      "target": "openai",
+      "type": "is CEO of",
+      "explanation": "Sam Altman is the CEO of OpenAI.",
+      "provenance": "The deployment of GPT-4 in India, however, was one of the red flags that led OpenAI\u2019s non-profit board to briefly fire CEO Sam Altman in 2023."
+    },
+    {
+      "source": "sam_altman",
+      "target": "dylan_scandinaro",
+      "type": "comments on hiring of",
+      "explanation": "Sam Altman commented that Dylan Scandinaro's hire would let him \u201csleep better tonight.\u201d",
+      "provenance": "Altmansaidthe hire would let him \u201csleep better tonight.\u201d"
+    },
+    {
+      "source": "tasha_mccauley",
+      "target": "sam_altman",
+      "type": "participated in firing of",
+      "explanation": "Tasha McCauley, as a board member, was part of the group that briefly fired Sam Altman.",
+      "provenance": "The deployment of GPT-4 in India, however, was one of the red flags that led OpenAI\u2019s non-profit board to briefly fire CEO Sam Altman in 2023. That incident took place after employees, including then-chief scientist Ilya Sutskever and then-CTO Mira Murati, complained about Altman\u2019s conflict-averse management style. Tasha McCauley, a member of the board at the time, testified about concerns that Altman was not forthcoming enough with the board for its unusual structure to function."
+    },
+    {
+      "source": "ilya_sutskever",
+      "target": "sam_altman",
+      "type": "criticized",
+      "explanation": "Ilya Sutskever complained about Sam Altman\u2019s conflict-averse management style.",
+      "provenance": "That incident took place after employees, including then-chief scientist Ilya Sutskever and then-CTO Mira Murati, complained about Altman\u2019s conflict-averse management style."
+    },
+    {
+      "source": "mira_murati",
+      "target": "sam_altman",
+      "type": "criticized",
+      "explanation": "Mira Murati complained about Sam Altman\u2019s conflict-averse management style.",
+      "provenance": "That incident took place after employees, including then-chief scientist Ilya Sutskever and then-CTO Mira Murati, complained about Altman\u2019s conflict-averse management style."
+    },
+    {
+      "source": "tasha_mccauley",
+      "target": "sam_altman",
+      "type": "criticized",
+      "explanation": "Tasha McCauley testified about concerns that Sam Altman was not forthcoming enough with the board.",
+      "provenance": "Tasha McCauley, a member of the board at the time, testified about concerns that Altman was not forthcoming enough with the board for its unusual structure to function."
+    },
+    {
+      "source": "sam_altman",
+      "target": "tasha_mccauley",
+      "type": "misled about",
+      "explanation": "Sam Altman lied to another board member about Tasha McCauley\u2019s intention to remove Helen Toner.",
+      "provenance": "Notably, Altman lied to another board member about McCauley\u2019s intention to remove Helen Toner, a third board member who published a white paper that included some implied criticism of OpenAI\u2019s safety policy."
+    },
+    {
+      "source": "tasha_mccauley",
+      "target": "helen_toner",
+      "type": "intended to remove",
+      "explanation": "Tasha McCauley intended to remove Helen Toner from the board.",
+      "provenance": "Altman lied to another board member about McCauley\u2019s intention to remove Helen Toner, a third board member who published a white paper that included some implied criticism of OpenAI\u2019s safety policy."
+    },
+    {
+      "source": "helen_toner",
+      "target": "openai",
+      "type": "criticized",
+      "explanation": "Helen Toner published a white paper that included implied criticism of OpenAI\u2019s safety policy.",
+      "provenance": "Altman lied to another board member about McCauley\u2019s intention to remove Helen Toner, a third board member who published a white paper that included some implied criticism of OpenAI\u2019s safety policy."
+    },
+    {
+      "source": "david_schizer",
+      "target": "tasha_mccauley",
+      "type": "agrees with",
+      "explanation": "David Schizer echoed Tasha McCauley's concerns about OpenAI's governance.",
+      "provenance": "David Schizer, a former dean of Columbia Law School who is being paid by Musk\u2019s team to act as an expert witness, echoed McCauley\u2019s concerns."
+    },
+    {
+      "source": "david_schizer",
+      "target": "elon_musk",
+      "type": "is expert witness for",
+      "explanation": "David Schizer is an expert witness paid by Elon Musk's legal team.",
+      "provenance": "David Schizer, a former dean of Columbia Law School who is being paid by Musk\u2019s team to act as an expert witness, echoed McCauley\u2019s concerns."
+    },
+    {
+      "source": "elon_musk",
+      "target": "greg_brockman",
+      "type": "gives gift to",
+      "explanation": "Elon Musk gave a Tesla Model 3 to Greg Brockman as one of his co-founders.",
+      "provenance": "Elon Musk was demanding full control of the company and had just given each of his co-founders a Tesla Model 3."
+    },
+    {
+      "source": "elon_musk",
+      "target": "sam_altman",
+      "type": "gives gift to",
+      "explanation": "Elon Musk gave a Tesla Model 3 to Sam Altman as one of his co-founders.",
+      "provenance": "Elon Musk was demanding full control of the company and had just given each of his co-founders a Tesla Model 3."
+    },
+    {
+      "source": "elon_musk",
+      "target": "ilya_sutskever",
+      "type": "gives gift to",
+      "explanation": "Elon Musk gave a Tesla Model 3 to Ilya Sutskever as one of his co-founders.",
+      "provenance": "Elon Musk was demanding full control of the company and had just given each of his co-founders a Tesla Model 3."
+    },
+    {
+      "source": "greg_brockman",
+      "target": "elon_musk",
+      "type": "interprets action of",
+      "explanation": "Greg Brockman saw Elon Musk's gift-giving as an attempt to 'butter them up' during a competition for company vision.",
+      "provenance": "CTO Greg Brockman said he saw that as way of buttering them up at a time when Musk and Sam Altman were vying to win support for their respective visions of the company\u2019s future."
+    },
+    {
+      "source": "elon_musk",
+      "target": "sam_altman",
+      "type": "vies with",
+      "explanation": "Elon Musk and Sam Altman were competing to win support for their respective visions of OpenAI\u2019s future.",
+      "provenance": "Musk and Sam Altman were vying to win support for their respective visions of the company\u2019s future."
+    },
+    {
+      "source": "ilya_sutskever",
+      "target": "elon_musk",
+      "type": "gives gift to",
+      "explanation": "Ilya Sutskever commissioned a painting of a Tesla to give to Elon Musk as a friendly gesture.",
+      "provenance": "OpenAI\u2019s head of research, Ilya Sutskever, had commissioned a painting of a Tesla to give Musk during the meeting as a friendly gesture."
+    },
+    {
+      "source": "greg_brockman",
+      "target": "elon_musk",
+      "type": "describes reaction of",
+      "explanation": "Greg Brockman described Elon Musk getting angry and upset when his demand for control of OpenAI was rejected.",
+      "provenance": "When Musk was told the others would not accede to his demand for control of the company, Brockman said he got angry and upset."
+    },
+    {
+      "source": "elon_musk",
+      "target": "greg_brockman",
+      "type": "threatens",
+      "explanation": "Elon Musk's actions and words during a meeting were perceived as a threat by Greg Brockman.",
+      "provenance": "I thought he was going to hit me. He grabbed the painting and started to storm out of the room. And then he turned around and said, \u2018When will you be departing OpenAI?\u2019"
+    },
+    {
+      "source": "greg_brockman",
+      "target": "elon_musk",
+      "type": "rejects vision of",
+      "explanation": "Greg Brockman did not commit to Elon Musk's vision for OpenAI.",
+      "provenance": "Brockman and Sutskever didn\u2019t leave or commit to Musk\u2019s vision."
+    },
+    {
+      "source": "ilya_sutskever",
+      "target": "elon_musk",
+      "type": "rejects vision of",
+      "explanation": "Ilya Sutskever did not commit to Elon Musk's vision for OpenAI.",
+      "provenance": "Brockman and Sutskever didn\u2019t leave or commit to Musk\u2019s vision."
+    },
+    {
+      "source": "elon_musk",
+      "target": "greg_brockman",
+      "type": "sues",
+      "explanation": "Elon Musk filed a lawsuit against Greg Brockman as one of his co-founders.",
+      "provenance": "eventually bringing us Musk\u2019s lawsuit against his co-founders."
+    },
+    {
+      "source": "elon_musk",
+      "target": "sam_altman",
+      "type": "sues",
+      "explanation": "Elon Musk filed a lawsuit against Sam Altman as one of his co-founders.",
+      "provenance": "eventually bringing us Musk\u2019s lawsuit against his co-founders."
+    },
+    {
+      "source": "elon_musk",
+      "target": "ilya_sutskever",
+      "type": "sues",
+      "explanation": "Elon Musk filed a lawsuit against Ilya Sutskever as one of his co-founders.",
+      "provenance": "eventually bringing us Musk\u2019s lawsuit against his co-founders."
+    },
+    {
+      "source": "greg_brockman",
+      "target": "elon_musk",
+      "type": "battles with",
+      "explanation": "Greg Brockman is in a 'pitched battle' with Elon Musk regarding OpenAI's future.",
+      "provenance": "a 30-year-old tech executive in a pitched battle with Elon Musk."
+    },
+    {
+      "source": "elon_musk",
+      "target": "sam_altman",
+      "type": "threatens",
+      "explanation": "Elon Musk sent a threatening text message, including Sam Altman, to Greg Brockman.",
+      "provenance": "Musk sent to Brockman two days before the trial began: \u201cBy the end of this week, you and Sam will be the most hated men in America. If you insist, so it will be.\u201d"
+    },
+    {
+      "source": "steve_molo",
+      "target": "sam_altman",
+      "type": "accuses",
+      "explanation": "Musk\u2019s lawyer, Steve Molo, accused Sam Altman of trying to 'steal a charity'.",
+      "provenance": "Musk\u2019s lawyers... are trying to show the court that Altman and Brockman \u201cstole a charity\u201d"
+    },
+    {
+      "source": "steve_molo",
+      "target": "greg_brockman",
+      "type": "accuses",
+      "explanation": "Musk\u2019s lawyer, Steve Molo, accused Greg Brockman of trying to 'steal a charity'.",
+      "provenance": "Musk\u2019s lawyers... are trying to show the court that Altman and Brockman \u201cstole a charity\u201d"
+    },
+    {
+      "source": "shivon_zilis",
+      "target": "elon_musk",
+      "type": "mediates for",
+      "explanation": "Shivon Zilis acted as a go-between for Elon Musk and the OpenAI team.",
+      "provenance": "Shivon Zilis, an OpenAI advisor who acted as a go-between for Musk and the team there"
+    },
+    {
+      "source": "greg_brockman",
+      "target": "elon_musk",
+      "type": "rejects demands of",
+      "explanation": "Greg Brockman, along with other founders, refused to give Elon Musk control of the company.",
+      "provenance": "But when the other founders wouldn\u2019t give Musk control, their partnership unraveled."
+    },
+    {
+      "source": "sam_altman",
+      "target": "elon_musk",
+      "type": "rejects demands of",
+      "explanation": "Sam Altman, along with other founders, refused to give Elon Musk control of the company.",
+      "provenance": "But when the other founders wouldn\u2019t give Musk control, their partnership unraveled."
+    },
+    {
+      "source": "ilya_sutskever",
+      "target": "elon_musk",
+      "type": "rejects demands of",
+      "explanation": "Ilya Sutskever, along with other founders, refused to give Elon Musk control of the company.",
+      "provenance": "But when the other founders wouldn\u2019t give Musk control, their partnership unraveled."
+    },
+    {
+      "source": "greg_brockman",
+      "target": "elon_musk",
+      "type": "opposes control by",
+      "explanation": "Greg Brockman testified against the idea of one person having full control over OpenAI, implicitly opposing Elon Musk's previous demand.",
+      "provenance": "\u201cIt should not be the case that there exists one person with full and absolute control over OpenAI,\u201d Brockman testified."
+    },
+    {
+      "source": "greg_brockman",
+      "target": "elon_musk",
+      "type": "planned to remove",
+      "explanation": "Greg Brockman discussed a plan with Ilya Sutskever to remove Elon Musk from OpenAI's board.",
+      "provenance": "Brockman and Sutskever discussed a plan to kick Elon off OpenAI\u2019s board in order to move forward"
+    },
+    {
+      "source": "ilya_sutskever",
+      "target": "elon_musk",
+      "type": "planned to remove",
+      "explanation": "Ilya Sutskever discussed a plan with Greg Brockman to remove Elon Musk from OpenAI's board.",
+      "provenance": "Brockman and Sutskever discussed a plan to kick Elon off OpenAI\u2019s board in order to move forward"
+    },
+    {
+      "source": "greg_brockman",
+      "target": "elon_musk",
+      "type": "reflects on consequences with",
+      "explanation": "Greg Brockman's journal entries reflected on the 'nasty fight' and moral implications of excluding Elon Musk from OpenAI's for-profit conversion.",
+      "provenance": "\u2018[C]an\u2019t see us turning this into a for-profit without a very nasty fight,\u201d Brockman wrote. \u201c[I\u2019m] just thinking about the office and we\u2019re in the office. and his story will correctly be that we weren\u2019t honest with him in the end about still wanting to do the for profit just without him\u2026.btw another realization from this is that it\u2019d be wrong to steal the non-profit from him. to convert to a b-corp without him. that\u2019d be pretty morally bankrupt. and he\u2019s really not an idiot.\u201d"
+    },
+    {
+      "source": "greg_brockman",
+      "target": "elon_musk",
+      "type": "desires separation from",
+      "explanation": "Greg Brockman wrote in his journal about wanting to 'get out from Elon' and questioned if Musk was the right leader.",
+      "provenance": "\u201cThis is the only chance we have to get out from Elon,\u201d he wrote during the talks. \u201cIs he the \u2018glorious leader\u2019 that I would pick?"
+    },
+    {
+      "source": "steve_molo",
+      "target": "greg_brockman",
+      "type": "berates",
+      "explanation": "Steve Molo, Elon Musk's main trial attorney, berated Greg Brockman during the trial.",
+      "provenance": "which became an opportunity for Steve Molo, the main trial attorney for Musk, to berate him."
+    },
+    {
+      "source": "steve_molo",
+      "target": "elon_musk",
+      "type": "represents",
+      "explanation": "Steve Molo is the main trial attorney representing Elon Musk.",
+      "provenance": "Steve Molo, the main trial attorney for Musk"
+    },
+    {
+      "source": "steve_molo",
+      "target": "greg_brockman",
+      "type": "questions",
+      "explanation": "Steve Molo questioned Greg Brockman about his personal wealth and donations to charity.",
+      "provenance": "\u201cWhy didn\u2019t you take the $29 billion more than the billion you said you would be good with, and donate that to the charity?\u201d Molo demanded."
+    },
+    {
+      "source": "steve_molo",
+      "target": "greg_brockman",
+      "type": "highlights inconsistency of",
+      "explanation": "Steve Molo highlighted that Greg Brockman had stated he would donate to OpenAI but never did.",
+      "provenance": "Molo also dwelt on emails from where Brockman said he will donate $100,000 to OpenAI, something he never did."
+    },
+    {
+      "source": "greg_brockman",
+      "target": "donald_trump",
+      "type": "donates to organization supporting",
+      "explanation": "Greg Brockman made a large political donation to a SuperPAC supporting President Donald Trump.",
+      "provenance": "Brockman might be best known to the public for making the largest donation of the 2025 political cycle, $25 million given to MAGA Inc., a SuperPAC supporting President Donald Trump"
+    },
+    {
+      "source": "steve_molo",
+      "target": "greg_brockman",
+      "type": "mocks",
+      "explanation": "Steve Molo mocked Greg Brockman's description of a tense meeting with Elon Musk.",
+      "provenance": "Molo did mock Brockman\u2019s description of the charged meeting around his control of the company as Musk being \u201cmean\u201d to Brockman"
+    },
+    {
+      "source": "steve_molo",
+      "target": "elon_musk",
+      "type": "suggests expertise of",
+      "explanation": "Steve Molo suggested that Elon Musk understood governance issues better than Greg Brockman.",
+      "provenance": "suggested that Brockman didn\u2019t understand the governance issues the way Musk, a serial founder, did."
+    },
+    {
+      "source": "greg_brockman",
+      "target": "elon_musk",
+      "type": "criticizes knowledge of",
+      "explanation": "Greg Brockman testified that Elon Musk did not and does not understand AI.",
+      "provenance": "Brockman, though, said Musk didn\u2019t understand AI. \u201cHe did not and does not know AI,\u201d he testified"
+    },
+    {
+      "source": "greg_brockman",
+      "target": "elon_musk",
+      "type": "criticizes judgment of",
+      "explanation": "Greg Brockman criticized Elon Musk for failing to recognize the potential of early AI research.",
+      "provenance": "The fact that Elon saw this very early version of the research, that really set all these things in motion, [and] didn\u2019t recognize that spark \u2014 that was exactly the kind of thing that was critical to avoid happening in this environment,\u201d Brockman said."
+    },
+    {
+      "source": "elon_musk",
+      "target": "sam_altman",
+      "type": "suspects",
+      "explanation": "Elon Musk suspected that Sam Altman and Greg Brockman had outmaneuvered him.",
+      "provenance": "Musk\u2019s suspicions that Altman and Brockman got one over on him, leading him to file his suit in 2024."
+    },
+    {
+      "source": "elon_musk",
+      "target": "greg_brockman",
+      "type": "suspects",
+      "explanation": "Elon Musk suspected that Sam Altman and Greg Brockman had outmaneuvered him.",
+      "provenance": "Musk\u2019s suspicions that Altman and Brockman got one over on him, leading him to file his suit in 2024."
+    }
+  ]
+}
