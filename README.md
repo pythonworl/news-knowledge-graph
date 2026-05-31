@@ -38,7 +38,7 @@ uvicorn main:app --reload
 ```
 
 Once the server is running, open your browser and navigate to the interactive API documentation (Swagger UI):
-👉 **http://127.0.0.1:8000/docs**
+ **http://127.0.0.1:8000/docs**
 
 ## Using the API
 
